@@ -1,6 +1,6 @@
 ubuntu 15.04
 
-plugin
+ubuntu plugin
 -------
 npm
 vim
@@ -16,4 +16,16 @@ ad-test
 work_jonural
 javascript-css-test
 pixnet
+test_research
+feebee
+css_test
+
+vim-plugin
+-------
+NERD-tree
+Emmet.vim
+Vundel
+
+
+
 
