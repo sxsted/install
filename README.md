@@ -9,6 +9,7 @@ compass
 jshint
 sublime
 git
+tmux
 
 code
 -------
@@ -19,12 +20,15 @@ pixnet
 test_research
 feebee
 css_test
+python
+
 
 vim-plugin
 -------
 NERD-tree
 Emmet.vim
 Vundel
+indent line
 
 
 
